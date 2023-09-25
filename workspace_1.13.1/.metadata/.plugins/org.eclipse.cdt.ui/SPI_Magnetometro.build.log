@@ -1,0 +1,27 @@
+13:45:23 **** Incremental Build of configuration Debug for project SPI_Magnetometro ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F072xB -c -I../Core/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc -I../Drivers/STM32F0xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F0xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:133:15: warning: unused variable 'temperatura' [-Wunused-variable]
+  133 |           int temperatura = txyz[0]/1028-20;
+      |               ^~~~~~~~~~~
+../Core/Src/main.c:118:11: warning: unused variable 'exitMode' [-Wunused-variable]
+  118 |   uint8_t exitMode = 0b10000000;
+      |           ^~~~~~~~
+../Core/Src/main.c:117:11: warning: unused variable 'singleMensure' [-Wunused-variable]
+  117 |   uint8_t singleMensure = 0b00111111;
+      |           ^~~~~~~~~~~~~
+arm-none-eabi-gcc -o "SPI_Magnetometro.elf" @"objects.list"   -mcpu=cortex-m0 -T"C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\SPI_Magnetometro\STM32F072RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="SPI_Magnetometro.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: SPI_Magnetometro.elf
+ 
+arm-none-eabi-size   SPI_Magnetometro.elf 
+arm-none-eabi-objdump -h -S  SPI_Magnetometro.elf  > "SPI_Magnetometro.list"
+   text	   data	    bss	    dec	    hex	filename
+  14712	     20	   2764	  17496	   4458	SPI_Magnetometro.elf
+Finished building: default.size.stdout
+ 
+Finished building: SPI_Magnetometro.list
+ 
+
+13:45:24 Build Finished. 0 errors, 3 warnings. (took 1s.87ms)
+

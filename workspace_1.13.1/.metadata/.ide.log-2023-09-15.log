@@ -1,0 +1,76 @@
+2023-09-16 13:07:15,224 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 325610728 Bytes (964689920)
+2023-09-16 13:07:15,413 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 339242216 Bytes (964689920)
+2023-09-16 13:07:15,901 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 378565864 Bytes (964689920)
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-16 13:07:16,163 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-16 13:07:16,164 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-16 13:07:16,164 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-16 13:07:16,164 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-16 13:07:16,167 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-16 13:07:16,419 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\license.tmp_save
+2023-09-16 13:07:16,543 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\license.tmp
+2023-09-16 13:07:16,654 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\gpio.tmp_save
+2023-09-16 13:07:16,768 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\gpio.tmp
+2023-09-16 13:07:17,590 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_it.c_save
+2023-09-16 13:07:17,770 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_it.c
+2023-09-16 13:07:17,781 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_it.h_save
+2023-09-16 13:07:17,857 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_it.h
+2023-09-16 13:07:17,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-16 13:07:18,046 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_hal_msp.c
+2023-09-16 13:07:18,066 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\system.tmp_save
+2023-09-16 13:07:18,132 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\system.tmp
+2023-09-16 13:07:18,162 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-16 13:07:18,271 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-16 13:07:18,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\main.h_save
+2023-09-16 13:07:18,425 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\main.h
+2023-09-16 13:07:18,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\main.c_save
+2023-09-16 13:07:18,599 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\main.c
+2023-09-16 13:07:19,298 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 245mS.
+2023-09-16 13:07:19,304 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-16 13:07:19,535 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-16 13:07:22,261 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2958mS.
+2023-09-16 13:07:22,262 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-16 13:07:22,265 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-16 13:25:59,719 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 717622816 Bytes (1073741824)
+2023-09-16 13:25:59,787 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 734399096 Bytes (1073741824)
+2023-09-16 13:25:59,970 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 794749328 Bytes (1073741824)
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-16 13:26:00,189 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-16 13:26:00,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-16 13:26:00,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-16 13:26:00,191 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-16 13:26:00,418 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\license.tmp_save
+2023-09-16 13:26:00,532 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\license.tmp
+2023-09-16 13:26:00,622 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\gpio.tmp_save
+2023-09-16 13:26:00,731 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\gpio.tmp
+2023-09-16 13:26:01,297 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_it.c_save
+2023-09-16 13:26:01,628 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_it.c
+2023-09-16 13:26:01,633 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_it.h_save
+2023-09-16 13:26:01,696 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_it.h
+2023-09-16 13:26:01,721 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-16 13:26:01,850 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\stm32f0xx_hal_msp.c
+2023-09-16 13:26:01,855 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\system.tmp_save
+2023-09-16 13:26:01,910 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\MXTmpFiles\system.tmp
+2023-09-16 13:26:01,933 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-16 13:26:02,042 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-16 13:26:02,085 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\main.h_save
+2023-09-16 13:26:02,191 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Inc\main.h
+2023-09-16 13:26:02,207 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\main.c_save
+2023-09-16 13:26:02,355 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\AgoraVai\Core\Src\main.c
+2023-09-16 13:26:02,899 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 167mS.
+2023-09-16 13:26:02,903 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-16 13:26:03,080 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-16 13:26:04,458 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1555mS.
+2023-09-16 13:26:04,458 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-16 13:26:04,462 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.

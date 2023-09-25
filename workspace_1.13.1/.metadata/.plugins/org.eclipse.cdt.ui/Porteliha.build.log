@@ -1,0 +1,22 @@
+10:24:17 **** Incremental Build of configuration Debug for project Porteliha ****
+make -j8 all 
+arm-none-eabi-gcc "../Src/main.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F0 -DSTM32F072RBTx -DSTM32F072B_DISCO -DSTM32F072xB -c -I../Inc -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Include" -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Device/ST/STM32F0xx/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/main.d" -MT"Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/main.o"
+arm-none-eabi-gcc "../Src/syscalls.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F0 -DSTM32F072RBTx -DSTM32F072B_DISCO -DSTM32F072xB -c -I../Inc -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Include" -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Device/ST/STM32F0xx/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/syscalls.d" -MT"Src/syscalls.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/syscalls.o"
+arm-none-eabi-gcc "../Src/sysmem.c" -mcpu=cortex-m0 -std=gnu11 -g3 -DDEBUG -DSTM32 -DSTM32F0 -DSTM32F072RBTx -DSTM32F072B_DISCO -DSTM32F072xB -c -I../Inc -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Include" -I"C:/Users/pedro/STM32CubeIDE/workspace_1.13.1/Porteliha/CMSIS/Device/ST/STM32F0xx/Include" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Src/sysmem.d" -MT"Src/sysmem.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Src/sysmem.o"
+../Src/main.c:3:6: warning: return type of 'main' is not 'int' [-Wmain]
+    3 | void main(){
+      |      ^~~~
+arm-none-eabi-gcc -o "Porteliha.elf" @"objects.list"   -mcpu=cortex-m0 -T"C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\Porteliha\STM32F072RBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Porteliha.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Porteliha.elf
+ 
+arm-none-eabi-size   Porteliha.elf 
+arm-none-eabi-objdump -h -S  Porteliha.elf  > "Porteliha.list"
+   text	   data	    bss	    dec	    hex	filename
+    456	      8	   1568	   2032	    7f0	Porteliha.elf
+Finished building: default.size.stdout
+ 
+Finished building: Porteliha.list
+ 
+
+10:24:18 Build Finished. 0 errors, 1 warnings. (took 857ms)
+

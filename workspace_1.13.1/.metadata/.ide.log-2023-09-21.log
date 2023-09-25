@@ -1,0 +1,809 @@
+2023-09-21 00:49:45,655 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-09-21 00:49:47,469 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3688mS.
+2023-09-21 00:49:47,470 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 00:49:47,472 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 01:07:48,699 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 579283448 Bytes (1073741824)
+2023-09-21 01:07:48,954 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 601829880 Bytes (1073741824)
+2023-09-21 01:07:49,530 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 667923224 Bytes (1073741824)
+2023-09-21 01:07:49,818 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 01:07:49,818 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 01:07:49,818 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 01:07:49,818 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 01:07:49,818 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 01:07:49,819 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 01:07:49,819 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 01:07:49,819 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 01:07:49,822 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 01:07:49,968 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 01:07:50,143 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 01:07:50,288 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 01:07:50,673 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 01:07:51,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 01:07:51,549 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 01:07:51,563 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 01:07:51,675 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 01:07:51,712 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 01:07:51,910 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 01:07:51,916 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 01:07:52,023 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 01:07:52,047 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 01:07:52,208 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 01:07:52,278 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 01:07:52,411 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 01:07:52,430 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 01:07:52,623 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 01:07:53,315 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 230mS.
+2023-09-21 01:07:53,320 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 01:07:53,605 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 01:07:55,142 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1822mS.
+2023-09-21 01:07:55,143 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 01:07:55,150 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 01:11:30,130 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 904880536 Bytes (1073741824)
+2023-09-21 01:11:30,418 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 928518584 Bytes (1073741824)
+2023-09-21 01:11:30,935 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 551059416 Bytes (1073741824)
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 01:11:31,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 01:11:31,219 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 01:11:31,412 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 01:11:31,525 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 01:11:31,599 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 01:11:31,691 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 01:11:32,032 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 01:11:32,118 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 01:11:32,123 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 01:11:32,189 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 01:11:32,210 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 01:11:32,349 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 01:11:32,359 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 01:11:32,418 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 01:11:32,435 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 01:11:32,539 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 01:11:32,649 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 01:11:32,780 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 01:11:32,796 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 01:11:32,935 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 01:11:33,542 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 227mS.
+2023-09-21 01:11:33,546 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 01:11:33,735 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 01:11:35,511 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 1965mS.
+2023-09-21 01:11:35,512 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 01:11:35,515 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 06:16:35,901 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 725174392 Bytes (1073741824)
+2023-09-21 06:16:36,213 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 738279544 Bytes (1073741824)
+2023-09-21 06:16:38,063 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 774457464 Bytes (1073741824)
+2023-09-21 06:16:39,168 [ERROR] LocalSettings:60 - multiple points
+2023-09-21 06:16:39,168 [ERROR] LocalSettings:60 - multiple points
+2023-09-21 06:16:39,311 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 06:16:39,311 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 06:16:39,312 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 06:16:39,312 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 06:16:39,312 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 06:16:39,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 06:16:39,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 06:16:39,314 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 06:16:39,318 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 06:16:40,648 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 06:16:41,286 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 06:16:41,883 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 06:16:42,292 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 06:16:45,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 06:16:45,877 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 06:16:45,912 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 06:16:46,091 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 06:16:46,163 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 06:16:46,628 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 06:16:46,657 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 06:16:46,820 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 06:16:46,865 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 06:16:47,148 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 06:16:47,247 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 06:16:47,448 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 06:16:47,483 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 06:16:47,850 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 06:16:49,679 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 691mS.
+2023-09-21 06:16:49,693 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 06:16:50,538 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 06:16:53,873 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4180mS.
+2023-09-21 06:16:53,875 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 06:16:53,881 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 09:05:05,094 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 609734584 Bytes (1073741824)
+2023-09-21 09:05:05,192 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 624159368 Bytes (1073741824)
+2023-09-21 09:05:05,412 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 642775000 Bytes (1073741824)
+2023-09-21 09:05:05,944 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 09:05:05,945 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 09:05:05,948 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 09:05:06,184 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 09:05:06,314 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 09:05:06,536 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 09:05:06,825 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 09:05:07,540 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 09:05:07,769 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 09:05:07,775 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 09:05:07,856 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 09:05:07,879 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 09:05:08,059 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 09:05:08,065 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 09:05:08,150 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 09:05:08,174 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 09:05:08,491 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 09:05:08,550 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 09:05:08,680 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 09:05:08,698 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 09:05:08,912 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 09:05:09,954 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 420mS.
+2023-09-21 09:05:09,959 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 09:05:10,172 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 09:05:12,233 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2274mS.
+2023-09-21 09:05:12,234 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 09:05:12,237 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 09:17:49,024 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 09:28:11,811 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 619773768 Bytes (1073741824)
+2023-09-21 09:28:11,975 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 665337432 Bytes (1073741824)
+2023-09-21 09:28:12,468 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 735193504 Bytes (1073741824)
+2023-09-21 09:28:12,510 [ERROR] IocParser:95 - Exception caught: Index 2 out of bounds for length 2
+2023-09-21 09:28:12,776 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 09:28:12,776 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 09:28:12,776 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 09:28:12,776 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 09:28:12,776 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 09:28:12,777 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 09:28:12,777 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 09:28:12,777 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 09:28:12,779 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 09:28:13,275 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 09:28:13,478 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 09:28:13,594 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 09:28:13,712 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 09:28:14,362 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 09:28:14,721 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 09:28:14,732 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 09:28:14,863 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 09:28:14,924 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 09:28:15,126 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 09:28:15,133 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 09:28:15,209 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 09:28:15,243 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 09:28:15,440 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 09:28:15,538 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 09:28:15,735 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 09:28:15,769 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 09:28:16,010 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 09:28:17,009 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 463mS.
+2023-09-21 09:28:17,020 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 09:28:17,561 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 09:28:19,651 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2631mS.
+2023-09-21 09:28:19,654 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 3mS.
+2023-09-21 09:28:19,662 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 09:38:10,700 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 09:38:17,325 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 580591840 Bytes (1073741824)
+2023-09-21 09:38:17,558 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 600406136 Bytes (1073741824)
+2023-09-21 09:38:18,186 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 626817160 Bytes (1073741824)
+2023-09-21 09:38:18,540 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 09:38:18,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 09:38:18,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 09:38:18,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 09:38:18,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 09:38:18,543 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 09:38:18,543 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 09:38:18,544 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 09:38:18,545 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 09:38:18,805 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 09:38:18,956 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 09:38:19,050 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 09:38:19,172 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 09:38:20,366 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 09:38:20,567 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 09:38:20,573 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 09:38:20,643 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 09:38:20,668 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 09:38:20,819 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 09:38:20,823 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 09:38:20,891 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 09:38:20,914 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 09:38:21,062 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 09:38:21,127 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 09:38:21,287 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 09:38:21,311 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 09:38:21,561 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 09:38:22,365 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 257mS.
+2023-09-21 09:38:22,370 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 09:38:22,588 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 09:38:24,563 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2193mS.
+2023-09-21 09:38:24,564 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 09:38:24,571 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 09:40:36,342 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 09:40:39,529 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 09:40:49,767 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 645860560 Bytes (1073741824)
+2023-09-21 09:40:49,840 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 593531080 Bytes (1073741824)
+2023-09-21 09:40:50,420 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 624724472 Bytes (1073741824)
+2023-09-21 09:40:50,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 09:40:50,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 09:40:50,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 09:40:50,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 09:40:50,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 09:40:50,720 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 09:40:50,720 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 09:40:50,720 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 09:40:50,721 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 09:40:50,914 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 09:40:51,036 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 09:40:51,155 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 09:40:51,297 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 09:40:51,807 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 09:40:51,901 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 09:40:51,907 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 09:40:51,971 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 09:40:52,004 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 09:40:52,202 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 09:40:52,220 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 09:40:52,300 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 09:40:52,328 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 09:40:52,535 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 09:40:52,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 09:40:52,791 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 09:40:52,824 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 09:40:53,009 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 09:40:53,770 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 235mS.
+2023-09-21 09:40:53,775 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 09:40:54,025 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 09:40:55,967 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2192mS.
+2023-09-21 09:40:55,968 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 09:40:55,971 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 09:41:59,999 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 691883424 Bytes (1073741824)
+2023-09-21 09:42:00,329 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 618175296 Bytes (1073741824)
+2023-09-21 09:42:00,991 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 648584000 Bytes (1073741824)
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 09:42:01,278 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 09:42:01,279 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 09:42:01,279 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 09:42:01,434 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 09:42:01,540 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 09:42:01,644 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 09:42:01,771 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 09:42:02,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 09:42:02,446 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 09:42:02,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 09:42:02,535 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 09:42:02,563 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 09:42:02,715 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 09:42:02,730 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 09:42:02,791 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 09:42:02,817 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 09:42:02,982 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 09:42:03,063 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 09:42:03,158 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 09:42:03,180 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 09:42:03,408 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 09:42:04,127 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 228mS.
+2023-09-21 09:42:04,132 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 09:42:04,540 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 09:42:06,330 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2198mS.
+2023-09-21 09:42:06,333 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-09-21 09:42:06,338 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 09:54:15,200 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,450x181,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:00:07,735 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 821068840 Bytes (1073741824)
+2023-09-21 10:00:08,088 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 842566696 Bytes (1073741824)
+2023-09-21 10:00:09,162 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 607200264 Bytes (1073741824)
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:00:09,719 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:00:09,723 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:00:10,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:00:10,379 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:00:10,566 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:00:11,077 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:00:12,581 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:00:13,013 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:00:13,031 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:00:13,135 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:00:13,169 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:00:13,427 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:00:13,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:00:13,587 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:00:13,633 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:00:13,823 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:00:13,920 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:00:14,159 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:00:14,198 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:00:14,436 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:00:15,703 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 533mS.
+2023-09-21 10:00:15,708 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:00:16,196 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:00:20,551 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4843mS.
+2023-09-21 10:00:20,552 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:00:20,557 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:02:26,892 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 905491320 Bytes (1073741824)
+2023-09-21 10:02:27,183 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 927191976 Bytes (1073741824)
+2023-09-21 10:02:27,859 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 607625016 Bytes (1073741824)
+2023-09-21 10:02:28,340 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:02:28,341 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:02:28,342 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:02:28,671 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:02:28,902 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:02:29,059 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:02:29,209 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:02:29,798 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:02:29,990 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:02:30,001 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:02:30,103 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:02:30,133 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:02:30,368 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:02:30,387 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:02:30,457 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:02:30,486 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:02:30,695 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:02:30,788 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:02:31,021 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:02:31,053 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:02:31,265 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:02:32,347 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 402mS.
+2023-09-21 10:02:32,351 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:02:32,679 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:02:35,396 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3045mS.
+2023-09-21 10:02:35,399 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-09-21 10:02:35,404 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:13:56,611 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:14:05,169 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 621768184 Bytes (1073741824)
+2023-09-21 10:14:05,226 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 632780280 Bytes (1073741824)
+2023-09-21 10:14:06,009 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 699889144 Bytes (1073741824)
+2023-09-21 10:14:06,540 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:14:06,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:14:06,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:14:06,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:14:06,541 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:14:06,542 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:14:06,542 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:14:06,542 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:14:06,544 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:14:06,839 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:14:07,108 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:14:07,368 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:14:07,650 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:14:08,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:14:08,906 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:14:08,919 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:14:09,079 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:14:09,127 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:14:09,324 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:14:09,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:14:09,406 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:14:09,439 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:14:09,680 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:14:09,767 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:14:10,031 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:14:10,052 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:14:10,318 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:14:11,429 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 304mS.
+2023-09-21 10:14:11,433 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:14:12,255 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:14:15,621 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4188mS.
+2023-09-21 10:14:15,622 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:14:15,627 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:15:28,315 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:15:44,086 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 648834840 Bytes (1073741824)
+2023-09-21 10:15:44,208 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 660895512 Bytes (1073741824)
+2023-09-21 10:15:45,101 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 692875032 Bytes (1073741824)
+2023-09-21 10:15:45,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:15:45,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:15:45,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:15:45,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:15:45,593 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:15:45,594 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:15:45,594 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:15:45,594 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:15:45,595 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:15:45,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:15:46,124 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:15:46,285 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:15:46,553 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:15:47,561 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:15:47,812 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:15:47,830 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:15:47,946 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:15:47,981 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:15:48,191 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:15:48,197 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:15:48,261 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:15:48,284 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:15:48,530 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:15:48,605 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:15:48,770 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:15:48,809 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:15:49,150 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:15:50,558 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 374mS.
+2023-09-21 10:15:50,562 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:15:51,194 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:15:54,086 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3524mS.
+2023-09-21 10:15:54,087 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:15:54,090 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:17:10,567 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:17:14,292 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 601440704 Bytes (1073741824)
+2023-09-21 10:17:14,340 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 612969648 Bytes (1073741824)
+2023-09-21 10:17:15,318 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 652815536 Bytes (1073741824)
+2023-09-21 10:17:15,821 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:17:15,821 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:17:15,821 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:17:15,821 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:17:15,821 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:17:15,822 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:17:15,822 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:17:15,822 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:17:15,823 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:17:16,140 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:17:16,404 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:17:16,592 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:17:16,870 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:17:18,045 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:17:18,195 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:17:18,203 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:17:18,341 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:17:18,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:17:18,606 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:17:18,615 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:17:18,716 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:17:18,768 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:17:19,011 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:17:19,098 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:17:19,252 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:17:19,275 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:17:19,500 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:17:20,811 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 377mS.
+2023-09-21 10:17:20,820 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:17:21,444 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:17:24,513 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 3693mS.
+2023-09-21 10:17:24,514 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:17:24,520 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:18:38,220 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 713490312 Bytes (1073741824)
+2023-09-21 10:18:38,295 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 724424568 Bytes (1073741824)
+2023-09-21 10:18:39,162 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 756152216 Bytes (1073741824)
+2023-09-21 10:18:39,761 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:18:39,761 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:18:39,761 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:18:39,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:18:39,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:18:39,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:18:39,762 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:18:39,763 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:18:39,764 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:18:40,058 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:18:40,303 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:18:40,577 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:18:40,820 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:18:41,704 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:18:41,845 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:18:41,878 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:18:41,966 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:18:42,006 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:18:42,165 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:18:42,174 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:18:42,277 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:18:42,336 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:18:42,585 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:18:42,652 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:18:42,851 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:18:42,903 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:18:43,253 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:18:44,736 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 453mS.
+2023-09-21 10:18:44,747 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:18:45,299 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:18:49,326 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4579mS.
+2023-09-21 10:18:49,327 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:18:49,332 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:20:40,073 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:21:27,789 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 573743448 Bytes (1073741824)
+2023-09-21 10:21:28,174 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 601864152 Bytes (1073741824)
+2023-09-21 10:21:30,302 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 643285992 Bytes (1073741824)
+2023-09-21 10:21:30,779 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:21:30,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:21:30,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:21:30,780 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:21:30,781 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:21:30,781 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:21:30,781 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:21:30,783 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:21:31,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:21:31,427 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:21:31,594 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:21:31,829 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:21:32,499 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:21:32,769 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:21:32,799 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:21:32,947 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:21:32,987 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:21:33,237 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:21:33,245 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:21:33,347 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:21:33,388 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:21:33,682 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:21:33,793 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:21:33,980 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:21:34,010 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:21:34,260 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:21:35,415 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 367mS.
+2023-09-21 10:21:35,424 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:21:35,772 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:21:40,248 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4823mS.
+2023-09-21 10:21:40,249 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:21:40,257 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 10:22:12,279 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:22:12,447 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:22:15,436 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:22:16,819 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-09-21 10:27:08,487 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 606558760 Bytes (1073741824)
+2023-09-21 10:27:08,652 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 624910888 Bytes (1073741824)
+2023-09-21 10:27:11,174 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 687179568 Bytes (1073741824)
+2023-09-21 10:27:11,999 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:27:12,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:27:12,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:27:12,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:27:12,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:27:12,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:27:12,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:27:12,002 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:27:12,008 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:27:12,378 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:27:12,647 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:27:12,990 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:27:13,251 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:27:14,472 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:27:14,719 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:27:14,744 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:27:15,009 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:27:15,072 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:27:15,428 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:27:15,467 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:27:15,588 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:27:15,638 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:27:15,988 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:27:16,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:27:16,461 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:27:16,516 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:27:17,024 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:27:20,850 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 2254mS.
+2023-09-21 10:27:20,865 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:27:21,713 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:27:28,861 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 7995mS.
+2023-09-21 10:27:28,863 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 2mS.
+2023-09-21 10:27:28,872 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:29:51,519 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 807961624 Bytes (1073741824)
+2023-09-21 10:29:52,211 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 831197192 Bytes (1073741824)
+2023-09-21 10:29:54,821 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 861095960 Bytes (1073741824)
+2023-09-21 10:29:55,730 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 10:29:55,730 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 10:29:55,731 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 10:29:55,731 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 10:29:55,731 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 10:29:55,732 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 10:29:55,732 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 10:29:55,732 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 10:29:55,735 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 10:29:56,142 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 10:29:56,491 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 10:29:56,671 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 10:29:56,967 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 10:29:58,264 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 10:29:58,523 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 10:29:58,552 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 10:29:58,729 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 10:29:58,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 10:29:59,308 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 10:29:59,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 10:29:59,576 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 10:29:59,652 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 10:29:59,968 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 10:30:00,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 10:30:00,414 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 10:30:00,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 10:30:00,912 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 10:30:02,606 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 661mS.
+2023-09-21 10:30:02,615 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 10:30:03,181 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 10:30:07,493 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 4877mS.
+2023-09-21 10:30:07,494 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 10:30:07,501 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
+2023-09-21 13:57:01,293 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-21 13:57:01,306 [INFO] MainUpdater:2868 - connection check result : 10
+2023-09-21 13:57:01,509 [INFO] I2cTimingTraitement:330 - 0x20303E5D
+2023-09-21 13:57:01,543 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-21 13:57:01,543 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-21 13:57:01,632 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-09-21 13:57:01,633 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-09-21 13:57:01,633 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-09-21 13:57:01,642 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-21 13:57:01,701 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 893020032 Bytes (1073741824)
+2023-09-21 13:57:01,702 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-09-21 13:57:01,702 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.91
+2023-09-21 13:57:01,702 [INFO] OpenFileManager:308 - Change cursor
+2023-09-21 13:57:01,737 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-09-21 13:57:01,748 [INFO] Mcu:1946 - Initializing MCU STM32F072R(8-B)Tx STM32F072RBTx STM32F072RBT6
+2023-09-21 13:57:02,899 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,267 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,268 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,269 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-09-21 13:57:03,275 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-09-21 13:57:03,275 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-09-21 13:57:03,276 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-09-21 13:57:03,276 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-09-21 13:57:03,276 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-09-21 13:57:03,281 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-09-21 13:57:03,292 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-09-21 13:57:03,297 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (USB) : Invalid parameter (speed)
+2023-09-21 13:57:03,540 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 601996672 Bytes (1073741824)
+2023-09-21 13:57:03,577 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-09-21 13:57:03,578 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.2
+2023-09-21 13:57:03,578 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-09-21 13:57:03,579 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-09-21 13:57:03,815 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-09-21 13:57:03,823 [INFO] PinOutPanel:1499 - setPackage(STM32F072RBTx,LQFP64)
+2023-09-21 13:57:04,296 [INFO] UtilMem:75 - Before build in PCC Used Memory: 609825272 Bytes (1073741824)
+2023-09-21 13:57:04,675 [INFO] UtilMem:75 - After build in PCC Used Memory: 653865464 Bytes (1073741824)
+2023-09-21 13:57:04,700 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,700 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,702 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,703 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,704 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,706 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,707 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,707 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,707 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,709 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,710 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,710 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,710 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-09-21 13:57:04,768 [INFO] CADModel:165 - CPN selected for project levelSTM32F072RBT6
+2023-09-21 13:57:04,768 [INFO] CADModel:114 - Register for checkConnection events
+2023-09-21 13:57:04,853 [INFO] OpenFileManager:328 - Restore cursor
+2023-09-21 18:03:40,186 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 700466888 Bytes (1073741824)
+2023-09-21 18:03:40,425 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 722981880 Bytes (1073741824)
+2023-09-21 18:03:41,017 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 778556408 Bytes (1073741824)
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TSC
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB
+2023-09-21 18:03:41,266 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-09-21 18:03:41,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-09-21 18:03:41,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-09-21 18:03:41,267 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2023-09-21 18:03:41,268 [INFO] CodeGenerator:799 - code generatio: config db path: C:\ST\STM32CubeIDE_1.13.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.9.1.202307191849\\db\
+2023-09-21 18:03:41,458 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp_save
+2023-09-21 18:03:41,573 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\license.tmp
+2023-09-21 18:03:41,689 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp_save
+2023-09-21 18:03:41,841 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\gpio.tmp
+2023-09-21 18:03:42,571 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c_save
+2023-09-21 18:03:42,863 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_it.c
+2023-09-21 18:03:42,876 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h_save
+2023-09-21 18:03:42,957 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_it.h
+2023-09-21 18:03:42,980 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c_save
+2023-09-21 18:03:43,125 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\stm32f0xx_hal_msp.c
+2023-09-21 18:03:43,134 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp_save
+2023-09-21 18:03:43,207 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\MXTmpFiles\system.tmp
+2023-09-21 18:03:43,231 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h_save
+2023-09-21 18:03:43,337 [INFO] CodeEngine:335 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\stm32f0xx_hal_conf.h
+2023-09-21 18:03:43,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h_save
+2023-09-21 18:03:43,507 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Inc\main.h
+2023-09-21 18:03:43,524 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c_save
+2023-09-21 18:03:43,685 [INFO] CodeEngine:279 - Generated code: C:\Users\pedro\STM32CubeIDE\workspace_1.13.1\EuSouMelhorQueIsso\Core\Src\main.c
+2023-09-21 18:03:44,442 [INFO] ProjectBuilder:3064 - Time for Copy HAL[1] : 334mS.
+2023-09-21 18:03:44,445 [INFO] ProjectBuilder:4404 - Project Generator version: 4.1.0
+2023-09-21 18:03:45,079 [INFO] ConfigFileManager:1457 - The Die is : DIE448
+2023-09-21 18:03:45,085 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-09-21 18:03:45,089 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-09-21 18:03:45,102 [INFO] ApiDbMcu:507 - Load IP Config File for TOUCHSENSING
+2023-09-21 18:03:45,107 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-09-21 18:03:46,517 [INFO] ProjectBuilder:4626 - Time for Generating toolchain IDE Files: 2072mS.
+2023-09-21 18:03:46,518 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 1mS.
+2023-09-21 18:03:46,520 [INFO] ProjectBuilder:2935 - Time for Copy CMSIS : 0mS.
